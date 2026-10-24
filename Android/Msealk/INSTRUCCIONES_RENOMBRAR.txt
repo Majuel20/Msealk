@@ -1,0 +1,17 @@
+MSEALK - INSTRUCCIONES PARA SUBIR A GITHUB
+
+1. Descomprime este ZIP.
+2. En https://github.com/Majuel20/Msealk abre Add file > Upload files.
+3. Sube el CONTENIDO de la carpeta descomprimida (no el ZIP).
+4. Confirma los cambios en la rama main.
+5. IMPORTANTE: los nombres RENOMBRAR_ son provisionales y NO funcionan como sus nombres originales.
+6. Renombra en GitHub cada archivo mediante el editor web (tecla de edición / lápiz), cambiando el nombre, y confirma.
+   No dejes duplicados si ya existía el archivo original.
+
+CAMBIOS DE NOMBRE NECESARIOS:
+  RENOMBRAR_gitattributes  -->  .gitattributes
+  RENOMBRAR_gitignore  -->  .gitignore
+  app/RENOMBRAR_gitignore  -->  app/.gitignore
+
+NO INCLUIDOS: .gradle, .kotlin, app/build, local.properties y otros archivos locales o generados.
+NOTA: GitHub acepta nombres que comienzan por punto. También puedes crearlos directamente con Add file > Create new file.
