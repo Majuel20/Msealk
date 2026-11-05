@@ -1,0 +1,145 @@
+name: Actualizar cortes programados
+
+on:
+  workflow_dispatch:
+    inputs:
+      permitir_vacio:
+        description: "Permitir publicar cero cortes solo si comprobaste manualmente la fuente SEAL"
+        type: boolean
+        required: false
+        default: false
+  schedule:
+    - cron: "17 10 * * *" # 05:17 en Perú (UTC-5); GitHub puede retrasar el inicio.
+
+permissions:
+  contents: write
+
+concurrency:
+  group: msealk-cortes-main
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    env:
+      TZ: America/Lima
+      PYTHONUNBUFFERED: "1"
+      PERMITIR_VACIO: ${{ inputs.permitir_vacio || false }}
+    steps:
+      - name: Descargar Msealk (todo se ejecuta en este repositorio)
+        uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Configurar Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: actualizador/requirements.txt
+
+      - name: Instalar dependencias y Chromium
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install -r actualizador/requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Ejecutar pruebas del actualizador
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m unittest discover -s actualizador -p 'test_*.py' -v
+
+      - name: Extraer con Python local y validar sin alterar datos publicados
+        shell: bash
+        run: |
+          set -euo pipefail
+          opciones=()
+          if [[ "$PERMITIR_VACIO" == "true" ]]; then
+            opciones+=(--permitir-vacio)
+          fi
+          # Este script llama al extractor LOCAL actualizador/extraer_cortes.py,
+          # valida el JSON y prepara todos los formatos en una carpeta temporal.
+          python actualizador/publicar_datos.py \
+            --destino "$RUNNER_TEMP/msealk-publicacion" \
+            "${opciones[@]}" 2>&1 | tee "$RUNNER_TEMP/diagnostico_msealk.txt"
+
+      - name: Verificar fecha y archivos preparados
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          carpeta = Path(os.environ['RUNNER_TEMP']) / 'msealk-publicacion'
+          for extension in ('json', 'csv', 'txt', 'xlsx'):
+              archivo = carpeta / f'cortes_programados.{extension}'
+              if not archivo.is_file() or archivo.stat().st_size == 0:
+                  raise SystemExit(f'No se publicará: archivo ausente o vacío: {archivo}')
+
+          datos = json.loads((carpeta / 'cortes_programados.json').read_text(encoding='utf-8-sig'))
+          hoy = datetime.now(ZoneInfo('America/Lima')).date().isoformat()
+          fecha_base = datos.get('metadata', {}).get('fecha_base')
+          if fecha_base != hoy:
+              raise SystemExit(f'No se publicará: fecha_base={fecha_base!r}, hoy en Perú={hoy!r}')
+          print(f'Extracción válida del {hoy}: {datos["total"]} cortes. Lista para publicar.')
+          PY
+
+      - name: Publicar los cuatro formatos en main sin usar git pull --rebase
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'msealk-bot'
+          git config user.email 'msealk-bot@users.noreply.github.com'
+
+          # Los archivos validados están fuera del checkout. Por eso podemos
+          # sincronizar el repositorio ANTES de copiar, confirmar y publicar.
+          for intento in 1 2 3; do
+            echo "Publicación: intento $intento de 3"
+            git fetch origin main
+            git checkout -B main origin/main
+
+            mkdir -p datos
+            for extension in json csv txt xlsx; do
+              cp "$RUNNER_TEMP/msealk-publicacion/cortes_programados.$extension" \
+                 "datos/cortes_programados.$extension"
+            done
+
+            git add -- datos/cortes_programados.json \
+                       datos/cortes_programados.csv \
+                       datos/cortes_programados.txt \
+                       datos/cortes_programados.xlsx
+            if git diff --cached --quiet; then
+              echo 'Todo está actualizado; no se requiere commit.'
+              exit 0
+            fi
+
+            git commit -m 'Actualizar cortes programados de SEAL'
+            if git push origin HEAD:refs/heads/main; then
+              echo 'OK: JSON, CSV, TXT y XLSX actualizados en Msealk/main/datos.'
+              exit 0
+            fi
+            echo "::warning::El push fue rechazado en el intento $intento."
+            if [[ "$intento" -lt 3 ]]; then
+              sleep 3
+            fi
+          done
+          echo '::error::Git no permitió actualizar main. Comprobar permisos de Actions y reglas de protección de rama; ver el error de git push arriba.'
+          exit 1
+
+      - name: Guardar diagnóstico aunque la extracción falle
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostico-msealk
+          path: ${{ runner.temp }}/diagnostico_msealk.txt
+          if-no-files-found: ignore
+          retention-days: 7
