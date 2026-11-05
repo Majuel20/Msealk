@@ -1,6 +1,6 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-11-05 15:28:53
+fecha_ejecucion: 2026-11-05 15:31:55
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
 fecha_base: 2026-11-05
 fecha_inicio: 2026-11-04
@@ -11,7 +11,7 @@ metodo_ids: REQUESTS_STATIC
 ids_detectados: 25
 eventos_totales_extraidos: 25
 eventos_guardados_en_rango: 6
-output_dir: /tmp/msealk-extraccion-ym9ycoag
+output_dir: /tmp/msealk-extraccion-7fno8hv7
 ====================================================================================================
 
 ====================================================================================================
