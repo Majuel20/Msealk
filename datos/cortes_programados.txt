@@ -1,41 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-11-06 12:39:44
+fecha_ejecucion: 2026-11-07 11:27:49
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-11-06
-fecha_inicio: 2026-11-05
-fecha_fin: 2026-12-06
+fecha_base: 2026-11-07
+fecha_inicio: 2026-11-06
+fecha_fin: 2026-12-07
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 25
 eventos_totales_extraidos: 25
-eventos_guardados_en_rango: 6
-output_dir: /tmp/msealk-extraccion-r_3wv8e6
+eventos_guardados_en_rango: 5
+output_dir: /tmp/msealk-extraccion-sev0glmm
 ====================================================================================================
-
-====================================================================================================
-ID: 6150
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6150&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 05/11/2026
-Hora inicio: 07:00
-Hora fin: 16:00
-Distrito: Pocsi, Polobayai, de Pocsi, de Polobayai
-Zona afectada: Urbanizaciones del distrito de Pocsi: Huicchuna, Piaca, Pocsi, Tuctumpaya. Urbanizaciones del distrito de Polobayai: Agua Buena, Bella Vista, Buena Vista, La Capilla, La Pampa, La Rinconada, Nuevo San Jose de Uzuña, Polobaya Chico, San Jose de Uzuña, Totorani, Uzuña.
-Motivo: Cambio de poste e instalación de conductor en media tensión.
-Ubicación: Circuito : Polobaya desde REC - 200531.
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 2161, 4534, 2162, 2159, 2160, 3301, 3302, 3296, 3295, 5828, 2110, 2111, 3298, 3297, 3299, 3300, 3294, 4155, 4388, 4158, 4581, 4979, 4156, 5356, 3644, 5816, 5697, 4157, 1954.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-JUEVES, 05 DE NOVIEMBRE DE 2026:
-Circuito : Polobaya desde REC - 200531.
-Hora : 07:00 a 16:00 Hrs.
-Motivo : Cambio de poste e instalación de conductor en media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Pocsi: Huicchuna, Piaca, Pocsi, Tuctumpaya. Urbanizaciones del distrito de Polobayai: Agua Buena, Bella Vista, Buena Vista, La Capilla, La Pampa, La Rinconada, Nuevo San Jose de Uzuña, Polobaya Chico, San Jose de Uzuña, Totorani, Uzuña.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2161, 4534, 2162, 2159, 2160, 3301, 3302, 3296, 3295, 5828, 2110, 2111, 3298, 3297, 3299, 3300, 3294, 4155, 4388, 4158, 4581, 4979, 4156, 5356, 3644, 5816, 5697, 4157, 1954.
 
 ====================================================================================================
 ID: 6155
