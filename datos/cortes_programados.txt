@@ -1,41 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-11-12 13:21:07
+fecha_ejecucion: 2026-11-13 12:46:39
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-11-12
-fecha_inicio: 2026-11-11
-fecha_fin: 2026-12-12
+fecha_base: 2026-11-13
+fecha_inicio: 2026-11-12
+fecha_fin: 2026-12-13
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 41
 eventos_totales_extraidos: 41
-eventos_guardados_en_rango: 14
-output_dir: /tmp/msealk-extraccion-wcrnbpqv
+eventos_guardados_en_rango: 13
+output_dir: /tmp/msealk-extraccion-f1z2qoxj
 ====================================================================================================
-
-====================================================================================================
-ID: 6159
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6159&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 11/11/2026
-Hora inicio: 08:00
-Hora fin: 16:00
-Distrito: Cocachacra, de Cocachacra
-Zona afectada: Urbanizaciones del distrito de Cocachacra: Alamos del Valle, Asentamiento Humano "Nuevo San Isidro", Avis Alto Veracruz, Cocachacra, El Canto, Los Rosales, Tupac Amaru, Veracruz Grande, Villa del Valle, Villa Ramon Castilla.
-Motivo: Mantenimiento de redes en media tensión (cambio de postes, cambio de armados, cambio de conductor).
-Ubicación: Circuito : [3902] ALTO COCACHACRA.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 8208, 8212, 8207, 8236, 8213, 8214, 8209, 8210, 8211, 8237, 8252, 8295, 8352, 8379, 8380, 8393, 8395, 8469, 8498, 8511, 8481, 8581, 8507, 8648, 8665, 8669, 8692, 8695.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIERCOLES,11 DE NOVIEMBRE DE 2026:
-Circuito : [3902] ALTO COCACHACRA.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (cambio de postes, cambio de armados, cambio de conductor).
-Zonas afectadas: Urbanizaciones del distrito de Cocachacra: Alamos del Valle, Asentamiento Humano "Nuevo San Isidro", Avis Alto Veracruz, Cocachacra, El Canto, Los Rosales, Tupac Amaru, Veracruz Grande, Villa del Valle, Villa Ramon Castilla.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8208, 8212, 8207, 8236, 8213, 8214, 8209, 8210, 8211, 8237, 8252, 8295, 8352, 8379, 8380, 8393, 8395, 8469, 8498, 8511, 8481, 8581, 8507, 8648, 8665, 8669, 8692, 8695.
 
 ====================================================================================================
 ID: 6162
