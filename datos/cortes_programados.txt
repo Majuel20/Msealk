@@ -1,110 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-11-14 11:37:46
+fecha_ejecucion: 2026-11-15 12:12:48
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-11-14
-fecha_inicio: 2026-11-13
-fecha_fin: 2026-12-14
+fecha_base: 2026-11-15
+fecha_inicio: 2026-11-14
+fecha_fin: 2026-12-15
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 41
-eventos_totales_extraidos: 41
-eventos_guardados_en_rango: 9
-output_dir: /tmp/msealk-extraccion-93ksp136
+ids_detectados: 43
+eventos_totales_extraidos: 43
+eventos_guardados_en_rango: 7
+output_dir: /tmp/msealk-extraccion-m_czycae
 ====================================================================================================
-
-====================================================================================================
-ID: 6163
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6163&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 13/11/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Jose Maria Quimper, Mariscal Caceres, de Jose Maria Quimper, de Mariscal Caceres
-Zona afectada: Urbanizaciones del distrito de Jose Maria Quimper: Bajo Huacapuy, Huacapuy. Urbanizaciones del distrito de Mariscal Caceres: San Agustin El Palmo.
-Motivo: Mantenimiento de redes en media tensión y
-Ubicación: Circuito : San Gregorio desde CC - 400134.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 9073, 9400, 9213, 9053, 9249, 9312, 9124, 10100.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 13 DE NOVIEMBRE DE 2026:
-Circuito : San Gregorio desde CC - 400134.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Mantenimiento de redes en media tensión y subestaciones de distribución.
-Zonas afectadas: Urbanizaciones del distrito de Jose Maria Quimper: Bajo Huacapuy, Huacapuy. Urbanizaciones del distrito de Mariscal Caceres: San Agustin El Palmo.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9073, 9400, 9213, 9053, 9249, 9312, 9124, 10100.
-
-====================================================================================================
-ID: 6166
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6166&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 13/11/2026
-Hora inicio: 07:30
-Hora fin: 15:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Semi-Rural Pachacutec Grupo 13-14-15-16-18-19-23-24-25
-Motivo: Mantenimiento de redes de media tensión (cambio de conectores, ajuste de crucetas, limpieza de aisladores).
-Ubicación: Circuito : Portales desde REC 200425.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 2893, 2978, 2422, 1624, 4577, 4825, 10191, 5956, 5928, 3430, 1700, 3726, 4545, 3631, 4293, 2972, 5576, 1623, 5058, 5289, 5291, 5004, 5504, 5588, 5565, 10194, 5184, 1671, 1773, 5510.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 13 DE NOVIEMBRE DE 2026:
-Circuito : Portales desde REC 200425.
-Hora : 07:30 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de conectores, ajuste de crucetas, limpieza de aisladores).
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Semi-Rural Pachacutec Grupo 13-14-15-16-18-19-23-24-25
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2893, 2978, 2422, 1624, 4577, 4825, 10191, 5956, 5928, 3430, 1700, 3726, 4545, 3631, 4293, 2972, 5576, 1623, 5058, 5289, 5291, 5004, 5504, 5588, 5565, 10194, 5184, 1671, 1773, 5510.
-
-====================================================================================================
-ID: 6165
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6165&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 13/11/2026
-Hora inicio: 07:45
-Hora fin: 15:15
-Distrito: Socabaya, de Socabaya
-Zona afectada: Urbanizaciones del distrito de Socabaya: La Campiña I-II-III, La Palizada, Las Rocas, Los Bosques.
-Motivo: Mantenimiento de redes de media tensión (cambio de conectores, ajuste de crucetas, limpieza de aisladores).
-Ubicación: Circuito : [603] SIMON BOLIVAR.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 1727, 1728, 2129, 2568, 2825, 2130, 1726, 2709, 1729, 3087, 2826, 10032, 5636.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 13 DE NOVIEMBRE DE 2026:
-Circuito : [603] SIMON BOLIVAR.
-Hora : 07:45 a 15:15 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de conectores, ajuste de crucetas, limpieza de aisladores).
-Zonas afectadas: Urbanizaciones del distrito de Socabaya: La Campiña I-II-III, La Palizada, Las Rocas, Los Bosques.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 1727, 1728, 2129, 2568, 2825, 2130, 1726, 2709, 1729, 3087, 2826, 10032, 5636.
-
-====================================================================================================
-ID: 6164
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6164&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 13/11/2026
-Hora inicio: 08:00
-Hora fin: 16:00
-Distrito: Deán Valdivia, de Deán Valdivia
-Zona afectada: Urbanizaciones del distrito de Deán Valdivia: 25 de Junio, Alto Boqueron, Los Angeles.
-Motivo: Mantenimiento de las redes de media tensión.
-Ubicación: Circuito : Ensenada desde CC - 370221.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 8321, 8653, 8170, 8465, 8631.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 13 DE NOVIEMBRE DE 2026:
-Circuito : Ensenada desde CC - 370221.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Mantenimiento de las redes de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Deán Valdivia: 25 de Junio, Alto Boqueron, Los Angeles.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8321, 8653, 8170, 8465, 8631.
 
 ====================================================================================================
 ID: 6167
@@ -221,3 +129,49 @@ Hora : 07:00 a 16:00 Hrs.
 Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
 Zonas : Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: 2 de Mayo, Alto de La Luna, Bancarios, Casapia, Cooperativa Lambramani, El Solar, Fecia, La Esperanza Adepa, La Pampilla, Las Begonias, Los Laureles, Mercado Regional del Sur, Pedro Diez Canseco, Quinta Tristan IV Etapa, Satelite Grande, Vinatea Reynoso, Vista Hermosa.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3235, 5853, 3239, 3290, 3244, 3849, 3242, 3940, 3832, 2652, 1387, 3243, 1527, 1340, 1415, 1293, 1289, 1558, 1364, 1682, 1438, 1286, 4059, 4174, 4351, 4482, 4689, 4812, 4987, 10111, 5324, 5323, 2754, 2755, 3245, 5854, 5730, 3455, 4047.
+
+====================================================================================================
+ID: 6172
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6172&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 17/11/2026
+Hora inicio: 07:05
+Hora fin: 15:05
+Distrito: Majes, de Majes
+Zona afectada: Urbanizaciones del distrito de Majes: Parque Industrial.
+Motivo: Mantenimiento de redes en media tensión (limpieza de aisladores, podado de árboles)
+Ubicación: Circuito : Laive desde CC - 950314.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 6009, 6010, 6011, 6012, 6013, 8908.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 17 DE NOVIEMBRE DE 2026:
+Circuito : Laive desde CC - 950314.
+Hora : 07:05 a 15:05 Hrs.
+Motivo : Mantenimiento de redes en media tensión (limpieza de aisladores, podado de árboles)
+Zonas afectadas: Urbanizaciones del distrito de Majes: Parque Industrial.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6009, 6010, 6011, 6012, 6013, 8908.
+
+====================================================================================================
+ID: 6173
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6173&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 18/11/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Nicolas de Pierola, de Nicolas de Pierola
+Zona afectada: Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani, San Martin.
+Motivo: Mantenimiento de redes de media tensión
+Ubicación: Circuito : Toran desde CC - 810132.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8611, 7153, 7154, 7155.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 18 DE NOVIEMBRE DE 2026:
+Circuito : Toran desde CC - 810132.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión
+Zonas afectadas: Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani, San Martin.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8611, 7153, 7154, 7155.
