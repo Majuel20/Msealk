@@ -1,134 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-11-16 15:30:30
+fecha_ejecucion: 2026-11-17 14:12:52
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-11-16
-fecha_inicio: 2026-11-15
-fecha_fin: 2026-12-16
+fecha_base: 2026-11-17
+fecha_inicio: 2026-11-16
+fecha_fin: 2026-12-17
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 43
-eventos_totales_extraidos: 43
-eventos_guardados_en_rango: 7
-output_dir: /tmp/msealk-extraccion-ke8wla9e
+ids_detectados: 44
+eventos_totales_extraidos: 44
+eventos_guardados_en_rango: 3
+output_dir: /tmp/msealk-extraccion-m4t3co8_
 ====================================================================================================
-
-====================================================================================================
-ID: 6167
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6167&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/11/2026
-Hora inicio: 06:00
-Hora fin: 16:00
-Distrito: Jose Luis Bustamante, Rivero, Paucarpata, de Jose Luis Bustamante, de Paucarpata
-Zona afectada: Urbanizaciones del distrito de Jose Luis Bustamante y Rivero: Alas del Sur, Av Residencial Los Olmos, Daniel Alcides Carrion, El Rosario, El Solar, El Solar del Bosque, Juan Pablo Vizcardo y Guzman, La Caña I,II,III, Los Cristales, Los Naranjos, Mi Peru, Monterrey, Ovalle I, Ovalle II, Quinta Tristan, Residencial Monterrico, San Lazaro, Santa Catalina, Santa Maria II, Simon Bolivar, Villa Aurora, Villa Dolores, Villa Jabiru, Villa Medica. Urbanizaciones del distrito de Paucarpata: Apromutso, Cristo Rey, El Estanco, San Salvador, Simon Bolivar, Trabajadores Unsa.
-Motivo: Mantenimiento en el transformador de potencia y líneas de transmisión.
-Ubicación: LÍNEAS : [L-3070] SOCABAYA - PAUCARPATA. SET : [12] PAUCARPATA
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 3890, 3905, 3482, 3572, 3573, 3574, 3575, 2963, 2964, 1377, 2328, 2961, 1675, 1304, 1816, 3481, 1995, 2633, 2459, 1388, 2673, 3106, 2329, 1794, 1769, 1302, 1953, 1306, 1786, 1796, 1600, 2646, 1303, 1610, 2767, 1301, 3744, 1821, 2841, 1300, 2962, 4063, 4179, 4184, 4251, 4350, 4367, 4352, 4576, 4634, 4819, 4961, 5014, 5247, 5411, 5412, 5424, 5423, 4992, 5574, 4803, 5072, 5805, 5819, 2583.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-DOMINGO, 15 DE NOVIEMBRE DE 2026:
-LÍNEAS : [L-3070] SOCABAYA - PAUCARPATA.
-SET : [12] PAUCARPATA.
-Hora : 06:00 a 16:00 Hrs.
-Motivo : Mantenimiento en el transformador de potencia y líneas de transmisión.
-Zonas afectadas: Urbanizaciones del distrito de Jose Luis Bustamante y Rivero: Alas del Sur, Av Residencial Los Olmos, Daniel Alcides Carrion, El Rosario, El Solar, El Solar del Bosque, Juan Pablo Vizcardo y Guzman, La Caña I,II,III, Los Cristales, Los Naranjos, Mi Peru, Monterrey, Ovalle I, Ovalle II, Quinta Tristan, Residencial Monterrico, San Lazaro, Santa Catalina, Santa Maria II, Simon Bolivar, Villa Aurora, Villa Dolores, Villa Jabiru, Villa Medica. Urbanizaciones del distrito de Paucarpata: Apromutso, Cristo Rey, El Estanco, San Salvador, Simon Bolivar, Trabajadores Unsa.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3890, 3905, 3482, 3572, 3573, 3574, 3575, 2963, 2964, 1377, 2328, 2961, 1675, 1304, 1816, 3481, 1995, 2633, 2459, 1388, 2673, 3106, 2329, 1794, 1769, 1302, 1953, 1306, 1786, 1796, 1600, 2646, 1303, 1610, 2767, 1301, 3744, 1821, 2841, 1300, 2962, 4063, 4179, 4184, 4251, 4350, 4367, 4352, 4576, 4634, 4819, 4961, 5014, 5247, 5411, 5412, 5424, 5423, 4992, 5574, 4803, 5072, 5805, 5819, 2583.
-
-====================================================================================================
-ID: 6168
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6168&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/11/2026
-Hora inicio: 06:00
-Hora fin: 07:00
-Distrito: Jose Luis Bustamante, Rivero, Paucarpata, de Jose Luis Bustamante, de Paucarpata
-Zona afectada: Urbanizaciones del distrito de Jose Luis Bustamante y Rivero: Alameda Dolores, Casa Blanca, Cooperativa de Vivienda Min. Agricultura, Daniel Alcides Carrion, El Rosario, La Alborada, La Melgariana El Condor, Los Naranjos, Mi Peru, Ovalle II, Quinta Tristan, Santa Catalina, Villa Dolores, Villa Jabiru, Villa Medica. Urbanizaciones del distrito de Paucarpata: 200 Millas, Alameda del Sol, Casa Bella, Guardia Civil III Etapa, La Colonial I Etapa, La Colonial II Etapa, La Colonial III Etapa, La Encalada, Las Cucardas, Las Marias, Las Mercedes, Los Alamos Zona II, Residencial San Agustin, Santa Ursula, Villa Continental.
-Motivo: Afectado por el corte de la SET Paucarpata.
-Ubicación: Circuito : [1202] AMAUTA.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 3955, 3708, 3416, 3417, 3241, 2255, 2256, 1445, 3592, 3674, 3675, 3676, 3319, 3322, 3321, 3320, 3819, 3823, 2398, 3240, 3859, 3855, 2723, 3612, 3613, 1738, 2509, 3619, 1748, 1298, 1299, 3433, 1958, 3500, 1854, 1321, 1425, 3431, 3565, 1414, 3724, 1858, 1781, 3318, 3317, 1756, 2786, 2960, 3649, 4046, 4160, 4346, 4366, 4404, 4403, 4410, 4455, 4626, 4679, 4802, 4947, 4860, 4828, 5157, 5513, 5821, 10272, 10145.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-DOMINGO, 15 DE NOVIEMBRE DE 2026:
-Circuito : [1202] AMAUTA.
-Hora : 06:00 a 07:00 Hrs.
-Motivo : Afectado por el corte de la SET Paucarpata.
-Zonas afectadas: Urbanizaciones del distrito de Jose Luis Bustamante y Rivero: Alameda Dolores, Casa Blanca, Cooperativa de Vivienda Min. Agricultura, Daniel Alcides Carrion, El Rosario, La Alborada, La Melgariana El Condor, Los Naranjos, Mi Peru, Ovalle II, Quinta Tristan, Santa Catalina, Villa Dolores, Villa Jabiru, Villa Medica. Urbanizaciones del distrito de Paucarpata: 200 Millas, Alameda del Sol, Casa Bella, Guardia Civil III Etapa, La Colonial I Etapa, La Colonial II Etapa, La Colonial III Etapa, La Encalada, Las Cucardas, Las Marias, Las Mercedes, Los Alamos Zona II, Residencial San Agustin, Santa Ursula, Villa Continental.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3955, 3708, 3416, 3417, 3241, 2255, 2256, 1445, 3592, 3674, 3675, 3676, 3319, 3322, 3321, 3320, 3819, 3823, 2398, 3240, 3859, 3855, 2723, 3612, 3613, 1738, 2509, 3619, 1748, 1298, 1299, 3433, 1958, 3500, 1854, 1321, 1425, 3431, 3565, 1414, 3724, 1858, 1781, 3318, 3317, 1756, 2786, 2960, 3649, 4046, 4160, 4346, 4366, 4404, 4403, 4410, 4455, 4626, 4679, 4802, 4947, 4860, 4828, 5157, 5513, 5821, 10272, 10145.
-
-====================================================================================================
-ID: 6169
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6169&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/11/2026
-Hora inicio: 06:00
-Hora fin: 07:00
-Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
-Zona afectada: Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: 2 de Mayo, Alto de La Luna, Bancarios, Casapia, Cooperativa Lambramani, El Solar, Fecia, La Esperanza Adepa, La Pampilla, Las Begonias, Los Laureles, Mercado Regional del Sur, Pedro Diez Canseco, Quinta Tristan IV Etapa, Satelite Grande, Vinatea Reynoso, Vista Hermosa.
-Motivo: Afectado por el corte de la SET Paucarpata.
-Ubicación: Circuito : Tecsup desde REC - 200395
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 3235, 5853, 3239, 3290, 3244, 3849, 3242, 3940, 3832, 2652, 1387, 3243, 1527, 1340, 1415, 1293, 1289, 1558, 1364, 1682, 1438, 1286, 4059, 4174, 4351, 4482, 4689, 4812, 4987, 10111, 5324, 5323, 2754, 2755, 3245, 5854, 5730, 3455, 4047.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-DOMINGO, 15 DE NOVIEMBRE DE 2026:
-Circuito : Tecsup desde REC - 200395
-Hora : 06:00 a 07:00 Hrs.
-Motivo : Afectado por el corte de la SET Paucarpata.
-Zonas : Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: 2 de Mayo, Alto de La Luna, Bancarios, Casapia, Cooperativa Lambramani, El Solar, Fecia, La Esperanza Adepa, La Pampilla, Las Begonias, Los Laureles, Mercado Regional del Sur, Pedro Diez Canseco, Quinta Tristan IV Etapa, Satelite Grande, Vinatea Reynoso, Vista Hermosa.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3235, 5853, 3239, 3290, 3244, 3849, 3242, 3940, 3832, 2652, 1387, 3243, 1527, 1340, 1415, 1293, 1289, 1558, 1364, 1682, 1438, 1286, 4059, 4174, 4351, 4482, 4689, 4812, 4987, 10111, 5324, 5323, 2754, 2755, 3245, 5854, 5730, 3455, 4047.
-
-====================================================================================================
-ID: 6170
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6170&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/11/2026
-Hora inicio: 07:00
-Hora fin: 16:00
-Distrito: Jose Luis Bustamante, Rivero, Paucarpata, de Jose Luis Bustamante, de Paucarpata
-Zona afectada: Urbanizaciones del distrito de Jose Luis Bustamante y Rivero: Alameda Dolores, Casa Blanca, Cooperativa de Vivienda Min. Agricultura, Daniel Alcides Carrion, El Rosario, La Alborada, La Melgariana El Condor, Los Naranjos, Mi Peru, Ovalle II, Quinta Tristan, Santa Catalina, Villa Dolores, Villa Jabiru, Villa Medica. Urbanizaciones del distrito de Paucarpata: 200 Millas, Alameda del Sol, Casa Bella, Guardia Civil III Etapa, La Colonial I Etapa, La Colonial II Etapa, La Colonial III Etapa, La Encalada, Las Cucardas, Las Marias, Las Mercedes, Los Alamos Zona II, Residencial San Agustin, Santa Ursula, Villa Continental.
-Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
-Ubicación: Circuito : [1202] AMAUTA.
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 3955, 3708, 3416, 3417, 3241, 2255, 2256, 1445, 3592, 3674, 3675, 3676, 3319, 3322, 3321, 3320, 3819, 3823, 2398, 3240, 3859, 3855, 2723, 3612, 3613, 1738, 2509, 3619, 1748, 1298, 1299, 3433, 1958, 3500, 1854, 1321, 1425, 3431, 3565, 1414, 3724, 1858, 1781, 3318, 3317, 1756, 2786, 2960, 3649, 4046, 4160, 4346, 4366, 4404, 4403, 4410, 4455, 4626, 4679, 4802, 4947, 4860, 4828, 5157, 5513, 5821, 10272, 10145.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-DOMINGO, 15 DE NOVIEMBRE DE 2026:
-Circuito : [1202] AMAUTA.
-Hora : 07:00 a 16:00 Hrs.
-Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
-Zonas afectadas: Urbanizaciones del distrito de Jose Luis Bustamante y Rivero: Alameda Dolores, Casa Blanca, Cooperativa de Vivienda Min. Agricultura, Daniel Alcides Carrion, El Rosario, La Alborada, La Melgariana El Condor, Los Naranjos, Mi Peru, Ovalle II, Quinta Tristan, Santa Catalina, Villa Dolores, Villa Jabiru, Villa Medica. Urbanizaciones del distrito de Paucarpata: 200 Millas, Alameda del Sol, Casa Bella, Guardia Civil III Etapa, La Colonial I Etapa, La Colonial II Etapa, La Colonial III Etapa, La Encalada, Las Cucardas, Las Marias, Las Mercedes, Los Alamos Zona II, Residencial San Agustin, Santa Ursula, Villa Continental.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3955, 3708, 3416, 3417, 3241, 2255, 2256, 1445, 3592, 3674, 3675, 3676, 3319, 3322, 3321, 3320, 3819, 3823, 2398, 3240, 3859, 3855, 2723, 3612, 3613, 1738, 2509, 3619, 1748, 1298, 1299, 3433, 1958, 3500, 1854, 1321, 1425, 3431, 3565, 1414, 3724, 1858, 1781, 3318, 3317, 1756, 2786, 2960, 3649, 4046, 4160, 4346, 4366, 4404, 4403, 4410, 4455, 4626, 4679, 4802, 4947, 4860, 4828, 5157, 5513, 5821, 10272, 10145.
-
-====================================================================================================
-ID: 6171
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6171&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/11/2026
-Hora inicio: 07:00
-Hora fin: 16:00
-Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
-Zona afectada: Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: 2 de Mayo, Alto de La Luna, Bancarios, Casapia, Cooperativa Lambramani, El Solar, Fecia, La Esperanza Adepa, La Pampilla, Las Begonias, Los Laureles, Mercado Regional del Sur, Pedro Diez Canseco, Quinta Tristan IV Etapa, Satelite Grande, Vinatea Reynoso, Vista Hermosa.
-Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
-Ubicación: Circuito : Tecsup desde REC - 200395
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 3235, 5853, 3239, 3290, 3244, 3849, 3242, 3940, 3832, 2652, 1387, 3243, 1527, 1340, 1415, 1293, 1289, 1558, 1364, 1682, 1438, 1286, 4059, 4174, 4351, 4482, 4689, 4812, 4987, 10111, 5324, 5323, 2754, 2755, 3245, 5854, 5730, 3455, 4047.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-DOMINGO, 15 DE NOVIEMBRE DE 2026:
-Circuito : Tecsup desde REC - 200395
-Hora : 07:00 a 16:00 Hrs.
-Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
-Zonas : Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: 2 de Mayo, Alto de La Luna, Bancarios, Casapia, Cooperativa Lambramani, El Solar, Fecia, La Esperanza Adepa, La Pampilla, Las Begonias, Los Laureles, Mercado Regional del Sur, Pedro Diez Canseco, Quinta Tristan IV Etapa, Satelite Grande, Vinatea Reynoso, Vista Hermosa.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3235, 5853, 3239, 3290, 3244, 3849, 3242, 3940, 3832, 2652, 1387, 3243, 1527, 1340, 1415, 1293, 1289, 1558, 1364, 1682, 1438, 1286, 4059, 4174, 4351, 4482, 4689, 4812, 4987, 10111, 5324, 5323, 2754, 2755, 3245, 5854, 5730, 3455, 4047.
 
 ====================================================================================================
 ID: 6172
@@ -175,3 +59,26 @@ Hora : 07:00 a 15:00 Hrs.
 Motivo : Mantenimiento de redes de media tensión
 Zonas afectadas: Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani, San Martin.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8611, 7153, 7154, 7155.
+
+====================================================================================================
+ID: 6174
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6174&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 19/11/2026
+Hora inicio: 07:05
+Hora fin: 15:05
+Distrito: Majes, de Majes
+Zona afectada: Urbanizaciones del distrito de Majes: D1, D2, D3, D4, D-4 Juan Velazco Alvarado, El Alto.
+Motivo: Mantenimiento de redes de media tensión (limpieza de aisladores, instalación de seccionadores y podado de ramas de árboles).
+Ubicación: Circuito : Pedregal 2 desde BC - 950215.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 6095, 6227, 6094, 6247, 6097, 6096, 6292, 6291, 6118, 10227, 6117, 6958, 6116, 6115, 7825, 6108, 6107, 6106, 6086, 6099, 8812, 6098, 6103, 6113, 6092, 6091, 6089, 6090, 6105, 6104, 6102, 8673, 6101, 6112, 6628, 6111, 6110, 6109, 10231, 7677, 8655, 6406, 7681, 7682, 7683, 7684, 7918, 8905, 8672, 8666, 6119, 6100, 6114, 6093, 8696.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+JUEVES, 19 DE NOVIEMBRE DE 2026:
+Circuito : Pedregal 2 desde BC - 950215.
+Hora : 07:05 a 15:05 Hrs.
+Motivo : Mantenimiento de redes de media tensión (limpieza de aisladores, instalación de seccionadores y podado de ramas de árboles).
+Zonas afectadas: Urbanizaciones del distrito de Majes: D1, D2, D3, D4, D-4 Juan Velazco Alvarado, El Alto.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6095, 6227, 6094, 6247, 6097, 6096, 6292, 6291, 6118, 10227, 6117, 6958, 6116, 6115, 7825, 6108, 6107, 6106, 6086, 6099, 8812, 6098, 6103, 6113, 6092, 6091, 6089, 6090, 6105, 6104, 6102, 8673, 6101, 6112, 6628, 6111, 6110, 6109, 10231, 7677, 8655, 6406, 7681, 7682, 7683, 7684, 7918, 8905, 8672, 8666, 6119, 6100, 6114, 6093, 8696.
