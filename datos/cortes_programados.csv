@@ -1,11 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-6173,18/11/2026,07:00,15:00,"Nicolas de Pierola, de Nicolas de Pierola","Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani, San Martin.",Mantenimiento de redes de media tensión,Circuito : Toran desde CC - 810132.,MANTENIMIENTO DE REDES. SUSPENDIDO,"8611, 7153, 7154, 7155.","MANTENIMIENTO DE REDES.
-MIÉRCOLES, 18 DE NOVIEMBRE DE 2026:
-Circuito : Toran desde CC - 810132.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión
-Zonas afectadas: Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani, San Martin.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8611, 7153, 7154, 7155.",,,,,Evento,el 15/11/2026 9:29 por Cuenta del sistema,19/11/2026 10:09,Cuenta del sistema,"Laura Castillo, Jan Jorge",18/11/2026 7:00,18/11/2026 15:00,2026-11-18T07:00:00,2026-11-18T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6173&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,a1eeb7a0a34f115c490990aae2a50a7af01d19d2756a5c6fcbb8c658b15a110d
 6174,19/11/2026,07:05,15:05,"Majes, de Majes","Urbanizaciones del distrito de Majes: D1, D2, D3, D4, D-4 Juan Velazco Alvarado, El Alto.","Mantenimiento de redes de media tensión (limpieza de aisladores, instalación de seccionadores y podado de ramas de árboles).",Circuito : Pedregal 2 desde BC - 950215.,MANTENIMIENTO DE REDES.,"6095, 6227, 6094, 6247, 6097, 6096, 6292, 6291, 6118, 10227, 6117, 6958, 6116, 6115, 7825, 6108, 6107, 6106, 6086, 6099, 8812, 6098, 6103, 6113, 6092, 6091, 6089, 6090, 6105, 6104, 6102, 8673, 6101, 6112, 6628, 6111, 6110, 6109, 10231, 7677, 8655, 6406, 7681, 7682, 7683, 7684, 7918, 8905, 8672, 8666, 6119, 6100, 6114, 6093, 8696.","MANTENIMIENTO DE REDES.
 JUEVES, 19 DE NOVIEMBRE DE 2026:
 Circuito : Pedregal 2 desde BC - 950215.

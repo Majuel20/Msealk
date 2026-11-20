@@ -1,41 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-11-19 13:59:55
+fecha_ejecucion: 2026-11-20 13:38:17
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-11-19
-fecha_inicio: 2026-11-18
-fecha_fin: 2026-12-19
+fecha_base: 2026-11-20
+fecha_inicio: 2026-11-19
+fecha_fin: 2026-12-20
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 52
 eventos_totales_extraidos: 52
-eventos_guardados_en_rango: 10
-output_dir: /tmp/msealk-extraccion-oundmysi
+eventos_guardados_en_rango: 9
+output_dir: /tmp/msealk-extraccion-r2lgnz06
 ====================================================================================================
-
-====================================================================================================
-ID: 6173
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6173&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 18/11/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Nicolas de Pierola, de Nicolas de Pierola
-Zona afectada: Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani, San Martin.
-Motivo: Mantenimiento de redes de media tensión
-Ubicación: Circuito : Toran desde CC - 810132.
-Título: MANTENIMIENTO DE REDES. SUSPENDIDO
-Subestaciones: 8611, 7153, 7154, 7155.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 18 DE NOVIEMBRE DE 2026:
-Circuito : Toran desde CC - 810132.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión
-Zonas afectadas: Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani, San Martin.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8611, 7153, 7154, 7155.
 
 ====================================================================================================
 ID: 6174
