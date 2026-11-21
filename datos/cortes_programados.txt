@@ -1,41 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-11-20 13:38:17
+fecha_ejecucion: 2026-11-21 12:33:58
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-11-20
-fecha_inicio: 2026-11-19
-fecha_fin: 2026-12-20
+fecha_base: 2026-11-21
+fecha_inicio: 2026-11-20
+fecha_fin: 2026-12-21
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 52
 eventos_totales_extraidos: 52
-eventos_guardados_en_rango: 9
-output_dir: /tmp/msealk-extraccion-r2lgnz06
+eventos_guardados_en_rango: 8
+output_dir: /tmp/msealk-extraccion-9m01kid2
 ====================================================================================================
-
-====================================================================================================
-ID: 6174
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6174&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 19/11/2026
-Hora inicio: 07:05
-Hora fin: 15:05
-Distrito: Majes, de Majes
-Zona afectada: Urbanizaciones del distrito de Majes: D1, D2, D3, D4, D-4 Juan Velazco Alvarado, El Alto.
-Motivo: Mantenimiento de redes de media tensión (limpieza de aisladores, instalación de seccionadores y podado de ramas de árboles).
-Ubicación: Circuito : Pedregal 2 desde BC - 950215.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 6095, 6227, 6094, 6247, 6097, 6096, 6292, 6291, 6118, 10227, 6117, 6958, 6116, 6115, 7825, 6108, 6107, 6106, 6086, 6099, 8812, 6098, 6103, 6113, 6092, 6091, 6089, 6090, 6105, 6104, 6102, 8673, 6101, 6112, 6628, 6111, 6110, 6109, 10231, 7677, 8655, 6406, 7681, 7682, 7683, 7684, 7918, 8905, 8672, 8666, 6119, 6100, 6114, 6093, 8696.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 19 DE NOVIEMBRE DE 2026:
-Circuito : Pedregal 2 desde BC - 950215.
-Hora : 07:05 a 15:05 Hrs.
-Motivo : Mantenimiento de redes de media tensión (limpieza de aisladores, instalación de seccionadores y podado de ramas de árboles).
-Zonas afectadas: Urbanizaciones del distrito de Majes: D1, D2, D3, D4, D-4 Juan Velazco Alvarado, El Alto.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6095, 6227, 6094, 6247, 6097, 6096, 6292, 6291, 6118, 10227, 6117, 6958, 6116, 6115, 7825, 6108, 6107, 6106, 6086, 6099, 8812, 6098, 6103, 6113, 6092, 6091, 6089, 6090, 6105, 6104, 6102, 8673, 6101, 6112, 6628, 6111, 6110, 6109, 10231, 7677, 8655, 6406, 7681, 7682, 7683, 7684, 7918, 8905, 8672, 8666, 6119, 6100, 6114, 6093, 8696.
 
 ====================================================================================================
 ID: 6178
