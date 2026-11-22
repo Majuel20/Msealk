@@ -1,157 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-11-21 12:33:58
+fecha_ejecucion: 2026-11-22 12:51:05
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-11-21
-fecha_inicio: 2026-11-20
-fecha_fin: 2026-12-21
+fecha_base: 2026-11-22
+fecha_inicio: 2026-11-21
+fecha_fin: 2026-12-22
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 52
-eventos_totales_extraidos: 52
-eventos_guardados_en_rango: 8
-output_dir: /tmp/msealk-extraccion-9m01kid2
+ids_detectados: 54
+eventos_totales_extraidos: 54
+eventos_guardados_en_rango: 4
+output_dir: /tmp/msealk-extraccion-8nx57mig
 ====================================================================================================
-
-====================================================================================================
-ID: 6178
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6178&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/11/2026
-Hora inicio: 06:00
-Hora fin: 15:00
-Distrito: Alca, Huaynacotas, Puyca, Cotahuasi, Pampamarca, Tomepampa, de Alca, de Huaynacotas, de Puyca, de Cotahuasi, de Pampamarca, de Tomepampa
-Zona afectada: Urbanizaciones del Distrito de Alca: Alca, Ayahuasi, Cahuana, Huillac, Ticnay, La Lucha, Yumasca, Urbanizaciones Distrito de Huaynacotas: Anatabamba, Chincayllapa, Huacay, Piramarca, Sarasara, Tarhuara, Yurac, Anexo Chaclla, Huaynacotas, Luicho Chico, Luicho Grande, Taurisma, Visve, Urbanizaciones Distrito de Puyca: Ccalla, Churca, Cuspa, Huactapa, Lauripampa, Maghuanca, Meclla, Petcce, Puica, Sayparara, Sayroso, Soncco, Suni, Urbanizaciones del distrito de Cotahuasi: Acobamba, Ccanchapata 2, Cuno Cuno, Villa Chacaylla. Urbanizaciones del distrito de Pampamarca: Cochapampa, Mungui, Pampamarca, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca. Urbanizaciones del distrito de Tomepampa: Achambi, Huayhuanca, Locrahuanca, Tomepampa.
-Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
-Ubicación: SET : [70] COTAHUASI. Circuito : [7001] COTAHUASI - [7002] PUYCA
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 7282, 7280, 7303, 7304, 7307, 7311, 7281, 7316, 7315, 7313, 7314, 7312, 7305, 7306, 7310, 7731, 7732, 7730, 7729, 7734, 7735, 7746, 7747, 7727, 7725, 7726, 7724, 8644, 9423, 10286, 7308, 7309, 7733, 7728, 7292, 7291, 7290, 7289, 7288, 7285, 7284, 7283, 7297, 7320, 7317, 7318, 7319, 7296, 7295, 7294, 7293, 7287, 7286, 7336, 7332, 7321, 7302, 7322, 7338, 7343, 7752, 7749, 7750, 7751, 7719, 7972, 9795, 9358, 9360, 9359, 9365, 9395, 10173
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-VIERNES, 20 DE NOVIEMBRE DE 2026:
-SET : [70] COTAHUASI.
-Circuito : [7001] COTAHUASI - [7002] PUYCA
-Hora : 06:00 a 15:00 Hrs.
-Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
-Zonas afectadas: Urbanizaciones del Distrito de Alca: Alca, Ayahuasi, Cahuana, Huillac, Ticnay, La Lucha, Yumasca, Urbanizaciones Distrito de Huaynacotas: Anatabamba, Chincayllapa, Huacay, Piramarca, Sarasara, Tarhuara, Yurac, Anexo Chaclla, Huaynacotas, Luicho Chico, Luicho Grande, Taurisma, Visve, Urbanizaciones Distrito de Puyca: Ccalla, Churca, Cuspa, Huactapa, Lauripampa, Maghuanca, Meclla, Petcce, Puica, Sayparara, Sayroso, Soncco, Suni, Urbanizaciones del distrito de Cotahuasi: Acobamba, Ccanchapata 2, Cuno Cuno, Villa Chacaylla. Urbanizaciones del distrito de Pampamarca: Cochapampa, Mungui, Pampamarca, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca. Urbanizaciones del distrito de Tomepampa: Achambi, Huayhuanca, Locrahuanca, Tomepampa.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7282, 7280, 7303, 7304, 7307, 7311, 7281, 7316, 7315, 7313, 7314, 7312, 7305, 7306, 7310, 7731, 7732, 7730, 7729, 7734, 7735, 7746, 7747, 7727, 7725, 7726, 7724, 8644, 9423, 10286, 7308, 7309, 7733, 7728, 7292, 7291, 7290, 7289, 7288, 7285, 7284, 7283, 7297, 7320, 7317, 7318, 7319, 7296, 7295, 7294, 7293, 7287, 7286, 7336, 7332, 7321, 7302, 7322, 7338, 7343, 7752, 7749, 7750, 7751, 7719, 7972, 9795, 9358, 9360, 9359, 9365, 9395, 10173
-
-====================================================================================================
-ID: 6179
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6179&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/11/2026
-Hora inicio: 06:00
-Hora fin: 08:00
-Distrito: Charcana, Cotahuasi, Pampamarca, Quechualla, Toro, de Charcana, de Cotahuasi, de Pampamarca, de Quechualla, de Toro
-Zona afectada: Urbanizaciones del distrito de Charcana: Andamarca, Ayapallpa, Charcana, Urbanizaciones del distrito de Cotahuasi: Acobamba, Anchapacha, Aymaña, Cachana, Ccanchapata 1, Chaucavilca, Cochacallam, Colcan, Cotahuasi, Cuno Cuno, Pampacocha, Piro, Pitahuasi, Quillunza, Reyparte, Santa Ana, Tacaupo, Taccac, Urbanizaciones del distrito de Pampamarca: Huarhua, Lancaroya, Mungui, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca, Urbanizaciones del distrito de Quechualla: Allancay, Chaupo, Picha, Quechualla, Sancay, Velinga, Urbanizaciones del distrito de Toro: Cupe, Huachuy, Llallihua, Shiringay, Toro.
-Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
-Ubicación: Circuito : Cotahuasi desde REC - 700141.
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 7299, 7298, 7969, 7325, 7326, 7973, 7329, 7324, 7348, 7349, 7331, 7328, 7327, 7330, 7334, 7341, 7339, 7998, 7437, 7323, 7344, 7335, 7644, 7300, 7347, 7301, 7351, 7737, 7740, 7741, 7743, 7742, 7745, 7739, 7744, 7738, 7736, 7718, 7716, 7713, 7721, 7714, 7715, 7720, 7722, 9790, 7717, 7723, 7748, 7970, 7971, 7345, 9565, 7340, 9403, 8685.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-VIERNES, 20 DE NOVIEMBRE DE 2026:
-Circuito : Cotahuasi desde REC - 700141.
-Hora : 06:00 a 08:00 Hrs.
-Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
-Zonas afectadas: Urbanizaciones del distrito de Charcana: Andamarca, Ayapallpa, Charcana, Urbanizaciones del distrito de Cotahuasi: Acobamba, Anchapacha, Aymaña, Cachana, Ccanchapata 1, Chaucavilca, Cochacallam, Colcan, Cotahuasi, Cuno Cuno, Pampacocha, Piro, Pitahuasi, Quillunza, Reyparte, Santa Ana, Tacaupo, Taccac, Urbanizaciones del distrito de Pampamarca: Huarhua, Lancaroya, Mungui, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca, Urbanizaciones del distrito de Quechualla: Allancay, Chaupo, Picha, Quechualla, Sancay, Velinga, Urbanizaciones del distrito de Toro: Cupe, Huachuy, Llallihua, Shiringay, Toro.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7299, 7298, 7969, 7325, 7326, 7973, 7329, 7324, 7348, 7349, 7331, 7328, 7327, 7330, 7334, 7341, 7339, 7998, 7437, 7323, 7344, 7335, 7644, 7300, 7347, 7301, 7351, 7737, 7740, 7741, 7743, 7742, 7745, 7739, 7744, 7738, 7736, 7718, 7716, 7713, 7721, 7714, 7715, 7720, 7722, 9790, 7717, 7723, 7748, 7970, 7971, 7345, 9565, 7340, 9403, 8685.
-
-====================================================================================================
-ID: 6180
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6180&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/11/2026
-Hora inicio: 06:00
-Hora fin: 08:00
-Distrito: Charcana, Cotahuasi, Pampamarca, Quechualla, Toro, de Charcana, de Cotahuasi, de Pampamarca, de Quechualla, de Toro
-Zona afectada: Urbanizaciones del distrito de Charcana: Andamarca, Ayapallpa, Charcana, Urbanizaciones del distrito de Cotahuasi: Acobamba, Anchapacha, Aymaña, Cachana, Ccanchapata 1, Chaucavilca, Cochacallam, Colcan, Cotahuasi, Cuno Cuno, Pampacocha, Piro, Pitahuasi, Quillunza, Reyparte, Santa Ana, Tacaupo, Taccac, Urbanizaciones del distrito de Pampamarca: Huarhua, Lancaroya, Mungui, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca, Urbanizaciones del distrito de Quechualla: Allancay, Chaupo, Picha, Quechualla, Sancay, Velinga, Urbanizaciones del distrito de Toro: Cupe, Huachuy, Llallihua, Shiringay, Toro.
-Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
-Ubicación: Circuito : Cotahuasi desde REC - 700141.
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 7299, 7298, 7969, 7325, 7326, 7973, 7329, 7324, 7348, 7349, 7331, 7328, 7327, 7330, 7334, 7341, 7339, 7998, 7437, 7323, 7344, 7335, 7644, 7300, 7347, 7301, 7351, 7737, 7740, 7741, 7743, 7742, 7745, 7739, 7744, 7738, 7736, 7718, 7716, 7713, 7721, 7714, 7715, 7720, 7722, 9790, 7717, 7723, 7748, 7970, 7971, 7345, 9565, 7340, 9403, 8685.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-VIERNES, 20 DE NOVIEMBRE DE 2026:
-Circuito : Cotahuasi desde REC - 700141.
-Hora : 06:00 a 08:00 Hrs.
-Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
-Zonas afectadas: Urbanizaciones del distrito de Charcana: Andamarca, Ayapallpa, Charcana, Urbanizaciones del distrito de Cotahuasi: Acobamba, Anchapacha, Aymaña, Cachana, Ccanchapata 1, Chaucavilca, Cochacallam, Colcan, Cotahuasi, Cuno Cuno, Pampacocha, Piro, Pitahuasi, Quillunza, Reyparte, Santa Ana, Tacaupo, Taccac, Urbanizaciones del distrito de Pampamarca: Huarhua, Lancaroya, Mungui, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca, Urbanizaciones del distrito de Quechualla: Allancay, Chaupo, Picha, Quechualla, Sancay, Velinga, Urbanizaciones del distrito de Toro: Cupe, Huachuy, Llallihua, Shiringay, Toro.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7299, 7298, 7969, 7325, 7326, 7973, 7329, 7324, 7348, 7349, 7331, 7328, 7327, 7330, 7334, 7341, 7339, 7998, 7437, 7323, 7344, 7335, 7644, 7300, 7347, 7301, 7351, 7737, 7740, 7741, 7743, 7742, 7745, 7739, 7744, 7738, 7736, 7718, 7716, 7713, 7721, 7714, 7715, 7720, 7722, 9790, 7717, 7723, 7748, 7970, 7971, 7345, 9565, 7340, 9403, 8685.
-
-====================================================================================================
-ID: 6181
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6181&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/11/2026
-Hora inicio: 06:00
-Hora fin: 15:00
-Distrito: Cayarani, Chilcaymarca, Orcopampa, de Cayarani, de Chilcaymarca, de Orcopampa
-Zona afectada: Urbanizaciones del distrito de Cayarani: Palcuyo, Sancomarca. Urbanizaciones del distrito de Chilcaymarca: Chilcaymarca, Huilluco. Urbanizaciones del distrito de Orcopampa: Allhuire, Cercado, Condorhuayco, Huancarama, Huinpilca, La Calera, La Laguna, Las Tejas, Lontojoya, Misahuanca, Panahua, Piscina Huancarama, Rumihuasi, Rupaspucro, San Gregorio, San Lazaro, Sarpane, Sausa, Tintaymarca, Vista Alegre, Zarpane.
-Motivo: Mantenimiento de las redes de media tensión.
-Ubicación: Circuito : [8701] ORCOPAMPA.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 7447, 7445, 7446, 7450, 7442, 7441, 7449, 7448, 7443, 7440, 7456, 7464, 7461, 7465, 7455, 7457, 7458, 7454, 7467, 7468, 7469, 7470, 7474, 7352, 7354, 7359, 7704, 7961, 7962, 7963, 7960, 7764, 7760, 7759, 7758, 7756, 7763, 7762, 7761, 7791, 7792, 7757, 8793, 8792, 8787, 8794, 8790, 8786, 8788, 8789, 8791, 10189, 7453.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 20 DE NOVIEMBRE DE 2026:
-Circuito : [8701] ORCOPAMPA.
-Hora : 06:00 a 15:00 Hrs.
-Motivo : Mantenimiento de las redes de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Cayarani: Palcuyo, Sancomarca. Urbanizaciones del distrito de Chilcaymarca: Chilcaymarca, Huilluco. Urbanizaciones del distrito de Orcopampa: Allhuire, Cercado, Condorhuayco, Huancarama, Huinpilca, La Calera, La Laguna, Las Tejas, Lontojoya, Misahuanca, Panahua, Piscina Huancarama, Rumihuasi, Rupaspucro, San Gregorio, San Lazaro, Sarpane, Sausa, Tintaymarca, Vista Alegre, Zarpane.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7447, 7445, 7446, 7450, 7442, 7441, 7449, 7448, 7443, 7440, 7456, 7464, 7461, 7465, 7455, 7457, 7458, 7454, 7467, 7468, 7469, 7470, 7474, 7352, 7354, 7359, 7704, 7961, 7962, 7963, 7960, 7764, 7760, 7759, 7758, 7756, 7763, 7762, 7761, 7791, 7792, 7757, 8793, 8792, 8787, 8794, 8790, 8786, 8788, 8789, 8791, 10189, 7453.
-
-====================================================================================================
-ID: 6182
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6182&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/11/2026
-Hora inicio: 06:00
-Hora fin: 15:00
-Distrito: Cayarani, Orcopampa, de Cayarani, de Orcopampa
-Zona afectada: Urbanizaciones del distrito de Cayarani: Cucho Rancho, Umachulcco. Urbanizaciones del distrito de Orcopampa: Misapuquio.
-Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
-Ubicación: Circuito : Orcopampa desde REC - 870115.
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 7353, 7968, 7459, 7460, 7462.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-VIERNES, 20 DE NOVIEMBRE DE 2026:
-Circuito : Orcopampa desde REC - 870115.
-Hora : 06:00 a 15:00 Hrs.
-Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
-Zonas afectadas: Urbanizaciones del distrito de Cayarani: Cucho Rancho, Umachulcco. Urbanizaciones del distrito de Orcopampa: Misapuquio.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7353, 7968, 7459, 7460, 7462.
-
-====================================================================================================
-ID: 6177
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6177&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/11/2026
-Hora inicio: 07:05
-Hora fin: 15:05
-Distrito: Majes, de Majes
-Zona afectada: Urbanizaciones del distrito de Majes: Futuro Majes, Las Malvinas, Pedregal, Pedregal Norte.
-Motivo: Mantenimiento de redes de media tensión.
-Ubicación: Circuito : Pedregal 2 desde REC - 200555.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 6018, 6020, 6023, 6024, 6232, 7887, 8821, 6017, 6016, 6960, 6021, 6022, 6015, 10388.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 20 DE NOVIEMBRE DE 2026:
-Circuito : Pedregal 2 desde REC - 200555.
-Hora : 07:05 a 15:05 Hrs.
-Motivo : Mantenimiento de redes de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Majes: Futuro Majes, Las Malvinas, Pedregal, Pedregal Norte.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6018, 6020, 6023, 6024, 6232, 7887, 8821, 6017, 6016, 6960, 6021, 6022, 6015, 10388.
 
 ====================================================================================================
 ID: 6176
@@ -208,3 +69,49 @@ PROVINCIA DE CARAVELÍ:
 Distrito de Caravelí, Localidad de Cerro de Arena, La Planchada, Pescadores.
 PROVINCIA DE ISLAY:
 Distritos de Mollendo, Islay, Mejía, Cocachacra, Deán Valdivia y Punta de Bombón
+
+====================================================================================================
+ID: 6183
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6183&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 24/11/2026
+Hora inicio: 08:00
+Hora fin: 16:00
+Distrito: Cocachacra, de Cocachacra
+Zona afectada: Urbanizaciones del distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Desamparados, El Toro, La Pascana, Portal del Valle, Puerto Viejo, Villa El Carmen.
+Motivo: Mantenimiento de redes en media tensión (cambio de
+Ubicación: Circuito : El Fiscal desde BC - 380303.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8283, 8263, 8436, 8276, 8264, 8303, 8304, 8305, 8542, 8324, 8306, 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339, 8372, 8378.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 24 DE NOVIEMBRE DE 2026:
+Circuito : El Fiscal desde BC - 380303.
+Hora : 08:00 a 16:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión (cambio de subestaciones, cambio de armados, mantenimiento de subestaciones).
+Zonas afectadas: Urbanizaciones del distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Desamparados, El Toro, La Pascana, Portal del Valle, Puerto Viejo, Villa El Carmen.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8283, 8263, 8436, 8276, 8264, 8303, 8304, 8305, 8542, 8324, 8306, 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339, 8372, 8378.
+
+====================================================================================================
+ID: 6184
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6184&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/11/2026
+Hora inicio: 06:00
+Hora fin: 15:00
+Distrito: Cerro Colorado, Yura, de Cerro Colorado, de Yura
+Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Ampliación Hijos Ciudad de Dios, Apiaar, Apima II La Alborada Cerro Colorado, Apipa Sector II, Apipa Sector III, Apipa Sector IV, Ciudad de Dios Zona 1, Granjeros Unidos I, Jose Luis Bustamante y Rivero, Los Camineros Empleados, Los Camineros Obreros, Nueva Juventud, Taller Monserrat, Taller Monserrat II Ampliación. Urbanizaciones del distrito de Yura: A.V. Villa Cristo, Ampliación Hijos Ciudad de Dios, Cap. Fap Jose Abelardo Quiñones, Ciudad de Dios Zona 1-2-3-4, Ciudad Municipal Zona 9, El Altiplano Sector 1 Zona A-B-C, El Altiplano Sector 2 Zona B, Elmer Faucett Profam Sector 1-2-3, Jose Abelardo Quiñonez II Etapa, Upis Los Milagros, Upis Los Milagros Zona I, Villa Los Milagros.
+Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
+Ubicación: Circuito : Ciudad Municipal desde REC - 080216.
+Título: REFROZAMIENTO DE REDES.
+Subestaciones: 3932, 3469, 3470, 2126, 1878, 1877, 2095, 2222, 2097, 2096, 1778, 3154, 1879, 2765, 2764, 3155, 3156, 2092, 2855, 3594, 3593, 3496, 2088, 2089, 2774, 2775, 2091, 2087, 3770, 2090, 2086, 1987, 2779, 2776, 2781, 2777, 2778, 2780, 2854, 3426, 3407, 3408, 3409, 3410, 3411, 3401, 3402, 3656, 3657, 3658, 3687, 2174, 3794, 1876, 4015, 4051, 4127, 4148, 4147, 4131, 4130, 4287, 4339, 4470, 4438, 4540, 4621, 4671, 4670, 4472, 4684, 4718, 4719, 4744, 4816, 4811, 4845, 4846, 4847, 4778, 4777, 4779, 5143, 5144, 5145, 5087, 5103, 5104, 5148, 5147, 5149, 5150, 4758, 5197, 5391, 5430, 5433, 5431, 5432, 5434, 5435, 5436, 5437, 5449, 5554, 5555, 5556, 5558, 5559, 5557, 5560, 5561, 5562, 5563, 5564, 5606, 5642, 5699, 5700, 5774, 5826, 5850, 5827, 10046, 5931, 10122, 10016, 10017, 10019, 10018, 10015, 10259, 10292, 5912, 5913, 10353, 5748.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFROZAMIENTO DE REDES.
+MIÉRCOLES, 25 DE NOVIEMBRE DE 2026:
+Circuito : Ciudad Municipal desde REC - 080216.
+Hora : 06:00 a 15:00 Hrs.
+Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
+Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Ampliación Hijos Ciudad de Dios, Apiaar, Apima II La Alborada Cerro Colorado, Apipa Sector II, Apipa Sector III, Apipa Sector IV, Ciudad de Dios Zona 1, Granjeros Unidos I, Jose Luis Bustamante y Rivero, Los Camineros Empleados, Los Camineros Obreros, Nueva Juventud, Taller Monserrat, Taller Monserrat II Ampliación. Urbanizaciones del distrito de Yura: A.V. Villa Cristo, Ampliación Hijos Ciudad de Dios, Cap. Fap Jose Abelardo Quiñones, Ciudad de Dios Zona 1-2-3-4, Ciudad Municipal Zona 9, El Altiplano Sector 1 Zona A-B-C, El Altiplano Sector 2 Zona B, Elmer Faucett Profam Sector 1-2-3, Jose Abelardo Quiñonez II Etapa, Upis Los Milagros, Upis Los Milagros Zona I, Villa Los Milagros.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3932, 3469, 3470, 2126, 1878, 1877, 2095, 2222, 2097, 2096, 1778, 3154, 1879, 2765, 2764, 3155, 3156, 2092, 2855, 3594, 3593, 3496, 2088, 2089, 2774, 2775, 2091, 2087, 3770, 2090, 2086, 1987, 2779, 2776, 2781, 2777, 2778, 2780, 2854, 3426, 3407, 3408, 3409, 3410, 3411, 3401, 3402, 3656, 3657, 3658, 3687, 2174, 3794, 1876, 4015, 4051, 4127, 4148, 4147, 4131, 4130, 4287, 4339, 4470, 4438, 4540, 4621, 4671, 4670, 4472, 4684, 4718, 4719, 4744, 4816, 4811, 4845, 4846, 4847, 4778, 4777, 4779, 5143, 5144, 5145, 5087, 5103, 5104, 5148, 5147, 5149, 5150, 4758, 5197, 5391, 5430, 5433, 5431, 5432, 5434, 5435, 5436, 5437, 5449, 5554, 5555, 5556, 5558, 5559, 5557, 5560, 5561, 5562, 5563, 5564, 5606, 5642, 5699, 5700, 5774, 5826, 5850, 5827, 10046, 5931, 10122, 10016, 10017, 10019, 10018, 10015, 10259, 10292, 5912, 5913, 10353, 5748.
