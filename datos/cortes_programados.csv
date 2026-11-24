@@ -1,28 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-6176,22/11/2026,06:00,15:00,"Caylloma, Sibayo, Tisco, de Caylloma, de Sibayo, de Tisco","Urbanizaciones del distrito de Caylloma: Coraza, Cuchocapilla, Jachaña, Pusa Pusa, Santa Rosa, Sotocaya. Urbanizaciones del distrito de Sibayo: Condorcuyo. Urbanizaciones del distrito de Tisco: Ccascas, Tarucamarca.",Instalación de nuevo equipo de protección y maniobra (recloser).,Circuito : [9301] SAN ANTONIO.,REFORZAMIENTO DE REDES,"7603, 7611, 7608, 7609, 7604, 7610, 7605, 7602, 7606, 7607.","REFORZAMIENTO DE REDES.
-DOMINGO, 22 DE NOVIEMBRE DE 2026:
-Circuito : [9301] SAN ANTONIO.
-Hora : 06:00 a 15:00 Hrs.
-Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
-Zonas afectadas: Urbanizaciones del distrito de Caylloma: Coraza, Cuchocapilla, Jachaña, Pusa Pusa, Santa Rosa, Sotocaya. Urbanizaciones del distrito de Sibayo: Condorcuyo. Urbanizaciones del distrito de Tisco: Ccascas, Tarucamarca.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7603, 7611, 7608, 7609, 7604, 7610, 7605, 7602, 7606, 7607.",,,,,Evento,"el 19/11/2026 9:36 por Laura Castillo, Jan Jorge",19/11/2026 9:36,"Laura Castillo, Jan Jorge","Laura Castillo, Jan Jorge",22/11/2026 6:00,22/11/2026 15:00,2026-11-22T06:00:00,2026-11-22T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6176&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,4dd6fe62c89f2a4c0e0d1a0d065ba4199dbe2d9aea87521cfa5bd3962ad2faf0
-6175,22/11/2026,08:00,16:00,"Majes, Caravelí, de Majes, de Caravelí, Quilca, Samuel Pastor, Nicolás de Piérola, Mariscal Cáceres, Camaná, Jose María Quimper, Mariano Nicolás Valcárcel, Ocoña, Uraca, Aplao, Huancarqui, Uñón, Típan, Pampacolca, Viraco, Machaguay, Iray, Chuquibamba, Andaray, Yanaquihua, Chichas, Rio Grande, Salamanca, La Joya, Vítor, Santa Isabel de Sihuas, San Juan de Sihuas, Santa Rita de Sihuas, Mollendo, Islay, Mejía, Cocachacra, Deán Valdivia, Punta de Bombón CORTE PROGRAMADO POR LA EMPRESA DE TRANSMISIÓN RED DE ENERGÍA DEL PERÚ, LÍNEA L-1029 CERRO VERDE – REPARTICIÓN, Punta de Bombón CORTE PROGRAMADO","PROVINCIA DE CAMANA: Distritos de Quilca, Samuel Pastor, Nicolás de Piérola, Mariscal Cáceres, Camaná, Jose María Quimper, Mariano Nicolás Valcárcel, Ocoña. PROVINCIA DE CAYLLOMA: Distrito de Majes, Lluclla. PROVINCIA DE CASTILLA: Distritos de Uraca, Aplao, Huancarqui, Uñón, Típan, Pampacolca, Viraco, Machaguay. PROVINCIA DE CONDESUYOS: Distritos de Iray, Chuquibamba, Andaray, Yanaquihua, Chichas, Rio Grande, Salamanca. PROVINCIA DE AREQUIPA: Distritos de La Joya, Vítor, Santa Isabel de Sihuas, San Juan de Sihuas, Santa Rita de Sihuas. PROVINCIA DE CARAVELÍ: Distrito de Caravelí, Localidad de Cerro de Arena, La Planchada, Pescadores. PROVINCIA DE ISLAY: Distritos de Mollendo, Islay, Mejía, Cocachacra, Deán Valdivia y Punta de Bombón","MANTENIMIENTO PREVENTIVO, REFORZAMIENTO DE CRUCETAS Y LIMPIEZA DE AISLADORES.",LÍNEA L-1029 CERRO VERDE – REPARTICIÓN; LÍNEA L-1056 REPARTICIÓN – CHAPARRAL Y LÍNEA L-1030 CHAPARRAL – MOLLENDO,CORTE PROGRAMADO,,"CORTE PROGRAMADO POR LA EMPRESA DE TRANSMISIÓN RED DE ENERGÍA DEL PERÚ, LÍNEA L-1029 CERRO VERDE – REPARTICIÓN; LÍNEA L-1056 REPARTICIÓN – CHAPARRAL Y LÍNEA L-1030 CHAPARRAL – MOLLENDO, se verá obligada a efectuar la suspensión temporal del suministro eléctrico el día domingo 22 de noviembre de 2026, en el horario de 08:00 a 16:00 horas.
-MOTIVO: MANTENIMIENTO PREVENTIVO, REFORZAMIENTO DE CRUCETAS Y LIMPIEZA DE AISLADORES.
-Las zonas afectadas por el corte efectuado por REP serán:
-PROVINCIA DE CAMANA:
-Distritos de Quilca, Samuel Pastor, Nicolás de Piérola, Mariscal Cáceres, Camaná, Jose María Quimper, Mariano Nicolás Valcárcel, Ocoña.
-PROVINCIA DE CAYLLOMA:
-Distrito de Majes, Lluclla.
-PROVINCIA DE CASTILLA:
-Distritos de Uraca, Aplao, Huancarqui, Uñón, Típan, Pampacolca, Viraco, Machaguay.
-PROVINCIA DE CONDESUYOS:
-Distritos de Iray, Chuquibamba, Andaray, Yanaquihua, Chichas, Rio Grande, Salamanca.
-PROVINCIA DE AREQUIPA:
-Distritos de La Joya, Vítor, Santa Isabel de Sihuas, San Juan de Sihuas, Santa Rita de Sihuas.
-PROVINCIA DE CARAVELÍ:
-Distrito de Caravelí, Localidad de Cerro de Arena, La Planchada, Pescadores.
-PROVINCIA DE ISLAY:
-Distritos de Mollendo, Islay, Mejía, Cocachacra, Deán Valdivia y Punta de Bombón",,,,,Evento,"el 19/11/2026 9:35 por Laura Castillo, Jan Jorge",19/11/2026 9:35,"Laura Castillo, Jan Jorge","Laura Castillo, Jan Jorge",22/11/2026 8:00,22/11/2026 16:00,2026-11-22T08:00:00,2026-11-22T16:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6175&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,64429715de13826e54f00d97297cdb51f1f49d3ff66b6afeb9c374c271bbefce
 6183,24/11/2026,08:00,16:00,"Cocachacra, de Cocachacra","Urbanizaciones del distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Desamparados, El Toro, La Pascana, Portal del Valle, Puerto Viejo, Villa El Carmen.",Mantenimiento de redes en media tensión (cambio de,Circuito : El Fiscal desde BC - 380303.,MANTENIMIENTO DE REDES.,"8283, 8263, 8436, 8276, 8264, 8303, 8304, 8305, 8542, 8324, 8306, 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339, 8372, 8378.","MANTENIMIENTO DE REDES.
 MARTES, 24 DE NOVIEMBRE DE 2026:
 Circuito : El Fiscal desde BC - 380303.
