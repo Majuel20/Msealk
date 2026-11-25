@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "fecha_ejecucion": "2026-11-24 15:41:08",
+    "fecha_ejecucion": "2026-11-25 14:57:42",
     "fuente": "https://www.seal.com.pe/clientes/SitePages/Cortes.aspx",
-    "fecha_base": "2026-11-24",
-    "fecha_inicio": "2026-11-23",
-    "fecha_fin": "2026-12-24",
+    "fecha_base": "2026-11-25",
+    "fecha_inicio": "2026-11-24",
+    "fecha_fin": "2026-12-25",
     "dias_atras": "1",
     "dias_adelante": "30",
     "metodo_ids": "REQUESTS_STATIC",
     "ids_detectados": "54",
     "eventos_totales_extraidos": "54",
     "eventos_guardados_en_rango": "2",
-    "output_dir": "/tmp/msealk-extraccion-ldfq7kiv"
+    "output_dir": "/tmp/msealk-extraccion-g70vxryw"
   },
   "total": 2,
   "cortes": [
