@@ -1,41 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-11-25 14:57:42
+fecha_ejecucion: 2026-11-26 14:38:17
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-11-25
-fecha_inicio: 2026-11-24
-fecha_fin: 2026-12-25
+fecha_base: 2026-11-26
+fecha_inicio: 2026-11-25
+fecha_fin: 2026-12-26
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 54
-eventos_totales_extraidos: 54
-eventos_guardados_en_rango: 2
-output_dir: /tmp/msealk-extraccion-g70vxryw
+ids_detectados: 56
+eventos_totales_extraidos: 56
+eventos_guardados_en_rango: 3
+output_dir: /tmp/msealk-extraccion-1_yzjcv7
 ====================================================================================================
-
-====================================================================================================
-ID: 6183
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6183&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 24/11/2026
-Hora inicio: 08:00
-Hora fin: 16:00
-Distrito: Cocachacra, de Cocachacra
-Zona afectada: Urbanizaciones del distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Desamparados, El Toro, La Pascana, Portal del Valle, Puerto Viejo, Villa El Carmen.
-Motivo: Mantenimiento de redes en media tensión (cambio de
-Ubicación: Circuito : El Fiscal desde BC - 380303.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 8283, 8263, 8436, 8276, 8264, 8303, 8304, 8305, 8542, 8324, 8306, 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339, 8372, 8378.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 24 DE NOVIEMBRE DE 2026:
-Circuito : El Fiscal desde BC - 380303.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (cambio de subestaciones, cambio de armados, mantenimiento de subestaciones).
-Zonas afectadas: Urbanizaciones del distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Desamparados, El Toro, La Pascana, Portal del Valle, Puerto Viejo, Villa El Carmen.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8283, 8263, 8436, 8276, 8264, 8303, 8304, 8305, 8542, 8324, 8306, 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339, 8372, 8378.
 
 ====================================================================================================
 ID: 6184
@@ -59,3 +36,49 @@ Hora : 06:00 a 15:00 Hrs.
 Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
 Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Ampliación Hijos Ciudad de Dios, Apiaar, Apima II La Alborada Cerro Colorado, Apipa Sector II, Apipa Sector III, Apipa Sector IV, Ciudad de Dios Zona 1, Granjeros Unidos I, Jose Luis Bustamante y Rivero, Los Camineros Empleados, Los Camineros Obreros, Nueva Juventud, Taller Monserrat, Taller Monserrat II Ampliación. Urbanizaciones del distrito de Yura: A.V. Villa Cristo, Ampliación Hijos Ciudad de Dios, Cap. Fap Jose Abelardo Quiñones, Ciudad de Dios Zona 1-2-3-4, Ciudad Municipal Zona 9, El Altiplano Sector 1 Zona A-B-C, El Altiplano Sector 2 Zona B, Elmer Faucett Profam Sector 1-2-3, Jose Abelardo Quiñonez II Etapa, Upis Los Milagros, Upis Los Milagros Zona I, Villa Los Milagros.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3932, 3469, 3470, 2126, 1878, 1877, 2095, 2222, 2097, 2096, 1778, 3154, 1879, 2765, 2764, 3155, 3156, 2092, 2855, 3594, 3593, 3496, 2088, 2089, 2774, 2775, 2091, 2087, 3770, 2090, 2086, 1987, 2779, 2776, 2781, 2777, 2778, 2780, 2854, 3426, 3407, 3408, 3409, 3410, 3411, 3401, 3402, 3656, 3657, 3658, 3687, 2174, 3794, 1876, 4015, 4051, 4127, 4148, 4147, 4131, 4130, 4287, 4339, 4470, 4438, 4540, 4621, 4671, 4670, 4472, 4684, 4718, 4719, 4744, 4816, 4811, 4845, 4846, 4847, 4778, 4777, 4779, 5143, 5144, 5145, 5087, 5103, 5104, 5148, 5147, 5149, 5150, 4758, 5197, 5391, 5430, 5433, 5431, 5432, 5434, 5435, 5436, 5437, 5449, 5554, 5555, 5556, 5558, 5559, 5557, 5560, 5561, 5562, 5563, 5564, 5606, 5642, 5699, 5700, 5774, 5826, 5850, 5827, 10046, 5931, 10122, 10016, 10017, 10019, 10018, 10015, 10259, 10292, 5912, 5913, 10353, 5748.
+
+====================================================================================================
+ID: 6185
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6185&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 27/11/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Mollendo, de Mollendo
+Zona afectada: Urbanizaciones del distrito de Mollendo: 7 de Junio, El Mirador Al Pacifico, La Florida, La Victoria, Las Ambarinas, Las Antenas, Luz y Fuerza, Nueva Generación, Nuevo Peru, Progreso, Villa Lourdes 1 Etapa, Villa Lourdes 2 Etapa, Zona Industrial Municipal.
+Motivo: Mantenimiento de redes de media tensión.
+Ubicación: Circuito : La Florida desde REC - 200284.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8063, 8004, 8256, 8072, 8056, 8055, 8065, 8459, 8281, 8067, 8066, 8068, 8069, 8071, 8374, 8064, 8226, 8579, 8745, 8073.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 27 DE NOVIEMBRE DE 2026:
+Circuito : La Florida desde REC - 200284.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Mollendo: 7 de Junio, El Mirador Al Pacifico, La Florida, La Victoria, Las Ambarinas, Las Antenas, Luz y Fuerza, Nueva Generación, Nuevo Peru, Progreso, Villa Lourdes 1 Etapa, Villa Lourdes 2 Etapa, Zona Industrial Municipal.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8063, 8004, 8256, 8072, 8056, 8055, 8065, 8459, 8281, 8067, 8066, 8068, 8069, 8071, 8374, 8064, 8226, 8579, 8745, 8073.
+
+====================================================================================================
+ID: 6186
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6186&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 27/11/2026
+Hora inicio: 08:00
+Hora fin: 13:00
+Distrito: Samuel Pastor, de Samuel Pastor
+Zona afectada: Urbanizaciones del Distrito Samuel Pastor: A.H. Alta Vista, A.H. Alto Luren, A.H. Taller Huaco, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Centro Poblado Linares, Cristo Rey, Habitad For Humanity, La Rinconada, Los Olivos, Pueblo Nuevo, Señor de Luren, Villa Don Jorge, Villa Mrina, Virgen de La Candelaria.
+Motivo: Obra: “Reforzamiento de la red de distribución primaria del alimentador cristo rey (4007), en el AH villa el salvador, distrito de Samuel Pastor, provincia de Camaná”.
+Ubicación: Circuito : [4007] CRISTO REY.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 9193, 9192, 9118, 9119, 9169, 9129, 9226, 9227, 9228, 9225, 9224, 9223, 9222, 9231, 9266, 9274, 9275, 9289, 9290, 9306, 9307, 9318, 9333, 9340, 9341, 9330, 9331, 9369.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+VIERNES, 27 DE NOVIEMBRE DE 2026:
+Circuito : [4007] CRISTO REY.
+Hora : 08:00 a 13:00 Hrs.
+Motivo : Obra: “Reforzamiento de la red de distribución primaria del alimentador cristo rey (4007), en el AH villa el salvador, distrito de Samuel Pastor, provincia de Camaná”.
+Zonas : Urbanizaciones del Distrito Samuel Pastor: A.H. Alta Vista, A.H. Alto Luren, A.H. Taller Huaco, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Centro Poblado Linares, Cristo Rey, Habitad For Humanity, La Rinconada, Los Olivos, Pueblo Nuevo, Señor de Luren, Villa Don Jorge, Villa Mrina, Virgen de La Candelaria.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9193, 9192, 9118, 9119, 9169, 9129, 9226, 9227, 9228, 9225, 9224, 9223, 9222, 9231, 9266, 9274, 9275, 9289, 9290, 9306, 9307, 9318, 9333, 9340, 9341, 9330, 9331, 9369.
